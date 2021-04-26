@@ -1,7 +1,7 @@
 # releasecompare
 demo comparing releases
 
-# Analysis Plan
+# Pre-Analysis Plan
 Before accessing the data, I plan to:
 
 - Ask the question: is Middlebury gaining or losing forest according to satellite imagery and local knowledge?
