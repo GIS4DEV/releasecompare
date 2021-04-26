@@ -6,7 +6,7 @@ After accessing the data, I plan to:
 
 - Ask the question: is Middlebury gaining or losing forest according to satellite imagery and local knowledge?
 - Collect Landsat 5 and 8 data of Middlebury in the summer
-- Talk to local resident who have lived in the area for at least 60 years
+- Survey 50 local residents who have lived in the area for at least 60 years
 - Analyze the data
 - Classify landsat data with supervised classification
 - Visualize results over space and time
